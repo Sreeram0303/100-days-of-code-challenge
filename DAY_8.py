@@ -131,7 +131,7 @@
    
 #     for i in range(n-1):
 #         if a[i] > a[i+1]:
-#             return 0 
+#             return 0  
 #     return 1
     
     
@@ -224,3 +224,4 @@
 # # A = [4, 2, 5, 4,3,5,1,4,2,7]
 # # X = 3
 # # Y = 2
+
